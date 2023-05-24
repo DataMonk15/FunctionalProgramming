@@ -1,2 +1,2 @@
 # FunctionalProgramming
-Repository to learn scala proramming in depth
+Repository to Learn Scala and Functional Programming with hands on.
