@@ -1,4 +1,4 @@
-package org.scalapractice.functional
+package BasicClassObjects
 
 class car{
   // class is defined as a collection of variables and methods

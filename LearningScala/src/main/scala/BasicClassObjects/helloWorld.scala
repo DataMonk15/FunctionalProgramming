@@ -1,4 +1,4 @@
-package org.scalapractice.functional
+package BasicClassObjects
 
 object helloWorld {
   def main(args: Array[String]): Unit = {
